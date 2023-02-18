@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: IrePin/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -15,17 +15,17 @@ website: https://irepin.github.io/
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: IlaRepin1
+github_username:  IrePin
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: enemixx
+linkedin_username: ilrepin
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+youtube_username: gagistos3926
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>FMOD</mark> and <mark>Eating Pizza</mark>
 
 content:
   - title: Projects # Title for the section
