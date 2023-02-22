@@ -100,20 +100,12 @@ content:
         description: | # this will include new lines to allow paragraphs
           Throughout this course, I was able to elevate my skills from a beginner level to an advanced level. I gained valuable knowledge on managing and organizing complex projects, created a custom Grid System, and learned advanced programming concepts including C# generics, C# events, and custom structs. In addition, I also learned about A* Pathfinding, which was an added bonus.
 
-   - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
       - layout: left
         title: Udemy
         caption: 2022 - 2022
         sub_title: Unity Turn-Based Strategy Game Intermediate C# Coding
-        link: http://surl.li/ezymx
-
-        quote: >
-          Udemy is an online learning platform that offers courses on a wide range of subjects, including business, technology, design, and personal development.
-        description: | # this will include new lines to allow paragraphs
-          Throughout this course, I was able to elevate my skills from a beginner level to an advanced level. I gained valuable knowledge on managing and organizing complex projects, created a custom Grid System, and learned advanced programming concepts including C# generics, C# events, and custom structs. In addition, I also learned about A* Pathfinding, which was an added bonus.
-
+        link: http://surl.li/ezymx 
+  
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
