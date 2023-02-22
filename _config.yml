@@ -67,7 +67,7 @@ content:
           - title:  github.com/IliaValianov/GBP
             icon: fab fa-github
         quote: >
-           We developed this game for Global Game Jam 2023
+           Game was developed for Global Game Jam 2023
         description: | # this will include new lines to allow paragraphs
          We developed this game in a week, with a team of 7 people. my role in the project is <mark>Sound Design</mark>. I completely wrote the soundtrack and programmed the <mark>FMOD</mark>.
          I gained a lot of skills through this project and I am very proud to have it in my portfolio.
