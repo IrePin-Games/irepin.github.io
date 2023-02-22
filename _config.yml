@@ -10,7 +10,7 @@ name: Ilya Repin
 title: Unity 3d Developer, Sound Designer
 email: gagistos@gmail.com
 # email_title: Email (Email title override)
-phone: Your phone number (+380663450554)
+phone: +380663450554
 # phone_title: Phone (Phone title override)
 website: https://github.com/IrePin-Games
 # website_title: Web (Website title override)
@@ -42,15 +42,16 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/profile_2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Hi, my name's Ilya and I'm Unity 3d developer. Throughout last year, I made significant progress in enhancing my skills as a Unity developer. 
+  My daily efforts focused on teamwork, effective communication, thorough research, and continuous learning of programming languages, with a particular emphasis on object-oriented programming.
+  As a result of my project-based learning and self-teaching experiences, I possess knowledge of the Unity Engine and C#. 
+  I am currently seeking a career as a Game Developer, and I believe my passion for continuous learning and self-improvement
+  will be invaluable in achieving my goals. With a proactive mindset, I am committed to daily growth and development,
+  and eager to leverage my talents and expertise to make meaningful contributions in the field.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  I am most skilled in:<mark>Unity</mark>, <mark>FMOD</mark> and <mark>Sound Design</mark>
 
 content:
   - title: Projects # Title for the section
@@ -59,20 +60,18 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        title: Scavenging Roots
+        link: https://hazkin.itch.io/scavenging-roots
         link_text: Link Text
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  github.com/IliaValianov/GBP
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+           We developed this game for Global Game Jam 2023
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+         We developed this game in a week, with a team of 7 people. my role in the project is <mark>Sound Design</mark>. I completely wrote the soundtrack and programmed the <mark>FMOD</mark>.
+         I gained a lot of skills through this project and I am very proud to have it in my portfolio.
+
   - title: Experience
     layout: list
     content:
