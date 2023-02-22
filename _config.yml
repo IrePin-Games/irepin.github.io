@@ -98,8 +98,7 @@ content:
         quote: >
           Udemy is an online learning platform that offers courses on a wide range of subjects, including business, technology, design, and personal development.
         description: | # this will include new lines to allow paragraphs
-          In this course, i take my skills from beginner to advanced, learned how to manage and organise a complex project. 
-          Сreated a custom Grid System and learn advanced Programming concepts, such as; C# generics, C# events, and custom structs. Plus A* Pathfinding!
+          Throughout this course, I was able to elevate my skills from a beginner level to an advanced level. I gained valuable knowledge on managing and organizing complex projects, created a custom Grid System, and learned advanced programming concepts including C# generics, C# events, and custom structs. In addition, I also learned about A* Pathfinding, which was an added bonus.
 
   - title: A Little More About Me
     layout: text
