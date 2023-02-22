@@ -17,17 +17,10 @@ darkmode: false
 # Social links
 twitter_username: IlaRepin1
 github_username:  IrePin
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
 instagram_username: enemixx
 linkedin_username: ilrepin
-# xing_username: jekyll
-# pinterest_username: jekyll
-youtube_username: gagistos3926
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+youtube_username: "@gagistos3926"
+
 
 # Additional icon links
 additional_links:
@@ -48,9 +41,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Ilya and I'm Unity 3d developer.
+  Knowledgeable in the Unity Engine and C# from project-based learning to self-teaching, looking to leverage my talents into a career as a Software Developer.
+  I am very self-driven, and willing to learn daily to achieve long-term goals.
 
-  I am most skilled in: <mark>FMOD</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in:<mark>Unity</mark>, <mark>FMOD</mark> and <mark>Sound Designe</mark>
 
 content:
   - title: Projects # Title for the section
