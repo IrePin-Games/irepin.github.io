@@ -96,7 +96,8 @@ content:
         link: http://surl.li/ezymx
 
         quote: >
-          Udemy is an online learning platform that offers courses on a wide range of subjects, including business, technology, design, and personal development.
+          Udemy is an online learning platform that offers courses on a wide range of subjects,
+          including business, technology, design, and personal development.
         description: | # this will include new lines to allow paragraphs
           Throughout this course, I was able to elevate my skills from a beginner level to an advanced level. I gained valuable knowledge on managing and organizing complex projects, created a custom Grid System, and learned advanced programming concepts including C# generics, C# events, and custom structs. In addition, I also learned about A* Pathfinding, which was an added bonus.
 
@@ -107,7 +108,8 @@ content:
         link: http://surl.li/ezymx 
 
         quote: >
-          Udemy is an online learning platform that offers courses on a wide range of subjects, including business, technology, design, and personal development.
+          Udemy is an online learning platform that offers courses on a wide range of subjects, 
+          including business, technology, design, and personal development.
         description: | # this will include new lines to allow paragraphs
           In this course I learned how to create first-person shooters. I worked with the enemy AI, created a system of weapons and shooting. I made a health system.
 
@@ -117,9 +119,9 @@ content:
         link: http://surl.li/fabtu
 
         quote: >
-          Udemy is an online learning platform that offers courses on a wide range of subjects, including business, technology, design, and personal development.
+          Zenva is an online learning platform that offers courses and tutorials on various topics related to programming, game development, web development, machine learning, data science, and more. 
         description: | # this will include new lines to allow paragraphs
-          In this course I learned how to create first-person shooters. I worked with the enemy AI, created a system of weapons and shooting. I made a health system.
+          In this course I learned C# fundamentals.
 
   - title: A Little More About Me
     layout: text
