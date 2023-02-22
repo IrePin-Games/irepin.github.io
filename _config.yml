@@ -111,6 +111,17 @@ content:
         description: | # this will include new lines to allow paragraphs
           In this course I learned how to create first-person shooters. I worked with the enemy AI, created a system of weapons and shooting. I made a health system. 
 
+        - layout: left
+        title: Udemy
+        caption: 2022 - 2022
+        sub_title: Master Unity Engine (2022) and C# Programing By Creating A First Person Shooter Using Modern Unity Development Technics
+        link: http://surl.li/ezymx
+        
+        quote: >
+          Udemy is an online learning platform that offers courses on a wide range of subjects, including business, technology, design, and personal development.
+        description: | # this will include new lines to allow paragraphs
+          In this course I learned how to create first-person shooters. I worked with the enemy AI, created a system of weapons and shooting. I made a health system. 
+
   
   - title: A Little More About Me
     layout: text
