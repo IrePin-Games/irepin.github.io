@@ -41,11 +41,14 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Ilya and I'm Unity 3d developer.
-  Knowledgeable in the Unity Engine and C# from project-based learning to self-teaching, looking to leverage my talents into a career as a Software Developer.
-  I am very self-driven, and willing to learn daily to achieve long-term goals.
+  Hi, my name's Ilya and I'm Unity 3d developer. Throughout last year, I made significant progress in enhancing my skills as a professional software and Unity developer. 
+  My daily efforts focused on teamwork, effective communication, thorough research, and continuous learning of programming languages, with a particular emphasis on object-oriented programming.
+  As a result of my project-based learning and self-teaching experiences, I possess knowledge of the Unity Engine and C#. 
+  I am currently seeking a career as a Game Developer, and I believe my passion for continuous learning and self-improvement
+  will be invaluable in achieving my goals. With a proactive mindset, I am committed to daily growth and development,
+  and eager to leverage my talents and expertise to make meaningful contributions in the field.
 
-  I am most skilled in:<mark>Unity</mark>, <mark>FMOD</mark> and <mark>Sound Designe</mark>
+  I am most skilled in:<mark>Unity</mark>, <mark>FMOD</mark> and <mark>Sound Design</mark>
 
 content:
   - title: Projects # Title for the section
