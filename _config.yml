@@ -44,7 +44,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile_2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Ilya and I'm Unity 3d developer. Throughout last year, I made significant progress in enhancing my skills as a Unity developer. 
+  I am Ilya, and I specialize in developing applications using Unity 3D. Throughout last year, I made significant progress in enhancing my skills as a Unity developer. 
   My daily efforts focused on teamwork, effective communication, thorough research, and continuous learning of programming languages, with a particular emphasis on object-oriented programming.
   As a result of my project-based learning and self-teaching experiences, I possess knowledge of the Unity Engine and C#. 
   I am currently seeking a career as a Game Developer, and I believe my passion for continuous learning and self-improvement
@@ -86,17 +86,42 @@ content:
           IrePin-Games is a personal endeavor of mine where I am working on creating multiple games that exist within the same fictional universe. 
           The premise of these games revolves around the conflict between the C.A.T.S. special unit and the "Zorbo" organization. 
           The latter aims to seize control of the world and enforce its oppressive, slave-like ideology on the global population.
-  - title: Education
-    layout: list
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
     content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+      - layout: left
+        title: Udemy
+        caption: 08.2022 - 09.2022
+        sub_title: Unity Turn-Based Strategy Game Intermediate C# Coding
+        link: http://surl.li/ezymx
+
         quote: >
-          Short institution or course description (optional)
+          Udemy is an online learning platform that offers courses on a wide range of subjects,
+          including business, technology, design, and personal development.
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          Throughout this course, I was able to elevate my skills from a beginner level to an advanced level. I gained valuable knowledge on managing and organizing complex projects, created a custom Grid System, and learned advanced programming concepts including C# generics, C# events, and custom structs. In addition, I also learned about A* Pathfinding, which was an added bonus.
+
+      - layout: left
+        title: Udemy
+        caption: 10.2022 - 11.2022
+        sub_title: Master Unity Engine (2022) and C# Programing By Creating A First Person Shooter Using Modern Unity Development Technics
+        link: http://surl.li/favff 
+
+        quote: >
+          Udemy is an online learning platform that offers courses on a wide range of subjects, 
+          including business, technology, design, and personal development.
+        description: | # this will include new lines to allow paragraphs
+          In this course I learned how to create first-person shooters. I worked with the enemy AI, created a system of weapons and shooting. I made a health system.
+
+      - layout: left
+        title: Zenva Academy
+        sub_title: "Unity Mini-Projects - C# Fundamentals"
+        link: http://surl.li/fabtu
+
+        quote: >
+          Zenva is an online learning platform that offers courses and tutorials on various topics related to programming, game development, web development, machine learning, data science, and more. 
+        description: | # this will include new lines to allow paragraphs
+          In this course I learned C# fundamentals.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
