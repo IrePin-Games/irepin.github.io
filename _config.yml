@@ -76,14 +76,16 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: IrePin Games
+        sub_title: Unity Developer
+        caption: august 2022 - Present
+        link: github.com/IrePin-Games
         quote: >
-          Short description of the company (optional)
+          IrePin-Games is a project focused on developing a series of games set in the same fictional universe.
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          IrePin-Games is a personal endeavor of mine where I am working on creating multiple games that exist within the same fictional universe. 
+          The premise of these games revolves around the conflict between the C.A.T.S. special unit and the "Zorbo" organization. 
+          The latter aims to seize control of the world and enforce its oppressive, slave-like ideology on the global population.
   - title: Education
     layout: list
     content:
