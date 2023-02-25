@@ -62,12 +62,12 @@ content:
                       # other value (or no value) means no border will be displayed
         title: Scavenging Roots
         link: https://hazkin.itch.io/scavenging-roots
-        title: Scavenging Roots OST
-        link: https://on.soundcloud.com/TT5sX
+        
         link_text: Link Text
         additional_links:
           - title:  github.com/IliaValianov/GBP
             icon: fab fa-github
+          - title:  https://on.soundcloud.com/TT5sX
         quote: >
            Game was developed for Global Game Jam 2023
         description: | # this will include new lines to allow paragraphs
