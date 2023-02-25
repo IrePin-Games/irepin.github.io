@@ -62,6 +62,8 @@ content:
                       # other value (or no value) means no border will be displayed
         title: Scavenging Roots
         link: https://hazkin.itch.io/scavenging-roots
+        title: Scavenging Roots OST
+        link: https://on.soundcloud.com/TT5sX
         link_text: Link Text
         additional_links:
           - title:  github.com/IliaValianov/GBP
