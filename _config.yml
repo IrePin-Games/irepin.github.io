@@ -64,9 +64,9 @@ content:
         link: https://hazkin.itch.io/scavenging-roots
         link_text: Scavenging Roots Game
         additional_links:
-          - title: https://github.com/IliaValianov/GBP
+          - title:  Scavenging Roots Github
             icon: fab fa-github
-          - title: https://on.soundcloud.com/TT5sX
+            url: https://github.com/IliaValianov/GBP
         quote: >
            Game was developed for Global Game Jam 2023
         description: | # this will include new lines to allow paragraphs
