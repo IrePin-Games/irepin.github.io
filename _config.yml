@@ -132,10 +132,23 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
-
+      I worked for a long time as an editor in television.
+      From this experience I can say that I am very stress-resistant and know how to work in a team.
+      But over time I realised that this job was not really my thing. 
+      I've been thinking for a long time about how to get closer to game development. 
+      I played a lot of games and realised that I enjoyed figuring out how their mechanics worked. 
+      So I decided to change careers and started training in the field. 
+      I have completely immersed myself in the world of video game development. 
+  - title: My hobbies
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      I like to read books, my favourite genre is science fiction. 
+      I like to experiment with different kinds of music. I like to play games. 
+      I love animals. Personal development is one of my favourite hobbies.
+  - title: My favorite games
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Fallout. XCOM. Sublustum. Mafia. COD:Warzone. Quake. StarCraft. Red Alert. 
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
