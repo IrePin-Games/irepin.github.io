@@ -57,12 +57,9 @@ content:
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      HARD: <mark>Unity/C#</mark>|<mark>FMOD</mark>|<mark>GIT</mark>
-      
-      
+      HARD: <mark>Unity/C#</mark><mark>FMOD</mark><mark>GIT</mark>
 
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      SOFT: <mark>Communication</mark><mark>Organisation</mark><mark>Creativity and innovation</mark><mark>Accountability</mark><mark>Flexibility</mark><mark>Eager to learn</mark><mark>Perseverance</mark><mark>Resourcefulness</mark><mark>Problem solving</mark>
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
