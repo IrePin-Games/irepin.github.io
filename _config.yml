@@ -24,6 +24,7 @@ github_username:  IrePin
 instagram_username: enemixx
 linkedin_username: ilrepin
 youtube_username: "@gagistos3926"
+soundcloud_username: irepin
 
 # Additional icon links
 additional_links:
@@ -144,9 +145,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       I like to read books, my favourite genre is science fiction. 
       I like to experiment with different kinds of music. I like to play games. 
-      I love animals. Personal development is one of my favourite hobbies.
-    title: My music 
-    link: https://soundcloud.com/irepin      
+      I love animals. Personal development is one of my favourite hobbies. 
   - title: My favorite games
     layout: text
     content: | # this will include new lines to allow paragraphs
