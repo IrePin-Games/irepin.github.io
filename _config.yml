@@ -145,6 +145,8 @@ content:
       I like to read books, my favourite genre is science fiction. 
       I like to experiment with different kinds of music. I like to play games. 
       I love animals. Personal development is one of my favourite hobbies.
+     sub_title: My music 
+     link: https://soundcloud.com/irepin      
   - title: My favorite games
     layout: text
     content: | # this will include new lines to allow paragraphs
