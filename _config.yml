@@ -76,8 +76,8 @@ content:
         quote: >
            Game was developed for Global Game Jam 2023
         description: | # this will include new lines to allow paragraphs
-         We developed this game in a week, with a team of 7 people. my role in the project is <mark>Sound Design</mark>. I completely wrote the soundtrack and programmed the <mark>FMOD</mark>.
-         I gained a lot of skills through this project and I am very proud to have it in my portfolio.
+         We have developed this game in one week, with a team of 7 people, and my role in the project is the <mark>Sound Design</mark>. I wrote the entire soundtrack and programmed the <mark>FMOD</mark>.
+         This project has taught me a lot of skills and I am very proud to have it in my portfolio.
 
   - title: Experience
     layout: list
